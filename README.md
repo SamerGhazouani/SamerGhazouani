@@ -2,23 +2,13 @@
 <h1 align="center">Hi 👋, I'm Samer Ghazouani</h1>
 <h3 align="center">Software Engineering Student | Full-Stack & Mobile Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/samer-ghazouani?tab=followers">
-    <img src="https://img.shields.io/github/followers/samer-ghazouani?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-  <a href="https://github.com/samer-ghazouani">
-    <img src="https://komarev.com/ghpvc/?username=samer-ghazouani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 **About Me**
 
 🔹 Software Engineering student at **ESPRIT**  
 🔹 Passionate about **Full-Stack Development**, **Mobile Apps**, and **AI Automation**  
-🔹 Experienced with building real products through internships in  
-   **Mobile development, Web engineering, and AI-based testing automation**  
+🔹 Experienced with building real products through internships in **Mobile development, Web engineering, and AI-based testing automation**  
 🔹 Curious, adaptable, and always eager to learn new technologies
 
 ---
