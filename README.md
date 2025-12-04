@@ -19,7 +19,7 @@
 const samer = {
     education: "Software Architecture Engineering @ ESPRIT",
     location: "Tunisia 🇹🇳",
-    currentFocus: ["Full-Stack Development", "Mobile Apps"],
+    currentFocus: ["Full-Stack Development", "Mobile Apps", "AI"],
     passions: ["Building Real Products", "Competitive Programming", "Learning New Tech"],
     funFact: "I turn coffee ☕ into code 💻"
 };
