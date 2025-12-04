@@ -74,27 +74,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samer-ghazouani&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samer-ghazouani&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samer-ghazouani&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🏆 **GitHub Achievements**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samer-ghazouani&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🎮 **Interests**
 - Competitive programming  
 - Mobile and web development  
