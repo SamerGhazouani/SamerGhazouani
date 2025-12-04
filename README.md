@@ -1,81 +1,137 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Samer Ghazouani</h1>
-<h3 align="center">Software Engineering Student | Full-Stack & Mobile Developer</h3>
+<!-- Header with animated typing effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Samer+Ghazouani;Software+Architecture+Engineering+Student;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samer-ghazouani)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samer.ghazouani@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+21628352443)
+  
+</div>
 
 ---
 
-## 👨‍💻 **About Me**
+## 🚀 About Me
 
-🔹 Software Engineering student at **ESPRIT**  
-🔹 Passionate about **Full-Stack Development**, **Mobile Apps**, and **AI Automation**  
-🔹 Experienced with building real products through internships in **Mobile development, Web engineering, and AI-based testing automation**  
-🔹 Curious, adaptable, and always eager to learn new technologies
+```typescript
+const samer = {
+    education: "Software Architecture Engineering @ ESPRIT",
+    location: "Tunisia 🇹🇳",
+    currentFocus: ["Full-Stack Development", "Mobile Apps"],
+    passions: ["Building Real Products", "Competitive Programming", "Learning New Tech"],
+    funFact: "I turn coffee ☕ into code 💻"
+};
+```
+
+- 🎓 Software Architecture Engineering student at **ESPRIT**
+- 💡 Passionate about creating **scalable applications** and **intelligent automation**
+- 🛠️ Building real-world solutions through **internships** in Mobile, Web, and AI
+- 🌱 Currently exploring **AI-powered testing** and **modern web frameworks**
+- 🎯 Always eager to learn, adapt, and take on new challenges
 
 ---
 
-## 🚀 **Tech Stack & Tools**
+## 💻 Tech Stack
 
-### **Languages**
-<p>
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,php,dart,sql" height="40"/>
 </p>
+</details>
 
-### **Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,angular,dotnet,nodejs,flutter,symfony" height="40"/>
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,angular,dotnet,nodejs,flutter,symfony,react" height="40"/>
 </p>
+</details>
 
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/>
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="40"/>
 </p>
+</details>
 
-### **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,vscode,idea" height="40"/>
+<details open>
+<summary><b>Tools & DevOps</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,androidstudio,vscode,idea,postman" height="40"/>
 </p>
+</details>
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 Professional Experience
 
-### 🔹 **AI-Powered Black-Box Testing Automation — VERMEG (2025)**  
-*Python, Selenium, NLP, Automation*  
-- Extracts Gherkin scenarios from documentation  
-- Crawls UI elements automatically  
-- Generates and executes test cases  
-- Produces detailed test reports without needing the source code  
+### 🤖 AI-Powered Black-Box Testing Automation
+**VERMEG** • *2025* • `Python` `Selenium` `NLP` `Automation`
 
----
-
-### 🔹 **Course Aggregation Platform — ESPRIT Tech (2024)**  
-*Angular, Spring Boot, Web Scraping*  
-- Centralized search engine for online courses  
-- Automated scraping + cleaning pipeline  
-- Fast search and continuously updated database  
+Developed an intelligent testing system that revolutionizes QA processes:
+- 📄 Extracts Gherkin scenarios from documentation using NLP
+- 🔍 Automatically crawls and maps UI elements
+- ⚡ Generates and executes test cases dynamically
+- 📊 Produces comprehensive reports without source code access
 
 ---
 
-### 🔹 **Dynamic Event Mobile App (Flutter) — Evey Event Solutions (2023)**  
-*Flutter, Firebase, REST APIs*  
-- Adaptive app compatible with any event  
-- Live streaming, quizzes, real-time chat features  
-- Sponsor & participant management  
+### 🎓 Course Aggregation Platform
+**ESPRIT Tech** • *2024* • `Angular` `Spring Boot` `Web Scraping`
+
+Built a centralized learning hub for online education:
+- 🔎 Unified search engine across multiple course providers
+- 🤖 Automated scraping with intelligent data cleaning
+- ⚡ Fast, indexed search with real-time updates
+- 📚 Continuously growing course database
 
 ---
 
-## 🎮 **Interests**
-- Competitive programming  
-- Mobile and web development  
-- AI and automation  
+### 📱 Dynamic Event Mobile App
+**Evey Event Solutions** • *2023* • `Flutter` `Firebase` `REST APIs`
+
+Created a flexible event management solution:
+- 🎨 Adaptive UI that configures for any event type
+- 📡 Live streaming with real-time engagement features
+- 💬 Interactive chat, quizzes, and polling
+- 👥 Comprehensive sponsor and participant management
 
 ---
 
-## 📫 **Contact**
-- **Email:** samer.ghazouani@gmail.com  
-- **Phone:** +216 28 352 443  
-- **LinkedIn:** [linkedin.com/in/samer-ghazouani](https://www.linkedin.com/in/samer-ghazouani)
+## 🎯 What Drives Me
+
+```python
+interests = {
+    "competitive_programming": "Solving complex algorithmic challenges",
+    "mobile_development": "Creating intuitive cross-platform experiences",
+    "web_engineering": "Building scalable full-stack applications",
+    "ai_automation": "Leveraging AI to solve real-world problems",
+    "continuous_learning": "Always exploring emerging technologies"
+}
+```
 
 ---
 
-⭐ **Feel free to explore my repositories or contact me for collaboration!**
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+I'm always open to interesting conversations and collaboration opportunities!
+
+**📧 Email:** samer.ghazouani@gmail.com  
+**📱 Phone:** +216 28 352 443  
+**💼 LinkedIn:** [linkedin.com/in/samer-ghazouani](https://www.linkedin.com/in/samer-ghazouani)
+
+<br>
+
+⭐ **Feel free to explore my repositories and reach out for collaboration!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
